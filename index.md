@@ -18,16 +18,19 @@ https://weibo.com/5512350098/L8WdD28xE<br>
 ![第一次回应](https://github.com/Ellisonlee/sheepdiary/blob/develop/CaseProfiles/220102-04%20%E8%B1%86%E7%93%A3%E5%8E%95%E6%89%80%E7%93%9C%E4%BA%8B%E4%BB%B6/Pics/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9B%9E%E5%BA%94.jpg?raw=true)
 
 应援会也及时发了公告<br>
-https://weibo.com/5236952807/L8X7jjm24?
+[应援会公告](https://weibo.com/5236952807/L8X7jjm24?)
 
 ### 发酵 
 同日晚11点有人投稿，猜测照片中的男性身份<br>
 https://m.weibo.cn/5512350098/4721349883330683<br>
+
 但是立刻被反驳说时间线根本对不上 <br>
 https://weibo.com/5512350098/L8XttlBqo<br>
+
 但是在此期间有人发出聊天记录，说是和男方粉丝确认过。<br>
 
 https://www.douban.com/group/topic/257081590/ <br>
+
 https://weibo.com/5512350098/L8Xw5jC3P <br>
 
 同时有人发出微信聊天记录，疑似和爆料人确认<br>
@@ -41,9 +44,9 @@ https://weibo.com/5512350098/L8Xw5jC3P <br>
 1月3日白天，许多不明人士跑到疑似男生的微博下面胡乱撒泼，用性向当成攻击人的手段。 <br>
 
 
-同天男生被逼澄清 <br>
-https://weibo.com/2941547635/L92q2yf4R
+[同天男生被逼澄清](https://weibo.com/2941547635/L92q2yf4R) <br>
 但是依然有不明人士揪着不放 <br>
+
 ![不明人士](https://github.com/Ellisonlee/sheepdiary/blob/develop/CaseProfiles/220102-04%20%E8%B1%86%E7%93%A3%E5%8E%95%E6%89%80%E7%93%9C%E4%BA%8B%E4%BB%B6/Pics/%E4%B8%8D%E6%98%8E%E4%BA%BA%E5%A3%AB.png)
 
 男生应援会只能再次解释 <br>
@@ -71,7 +74,7 @@ https://www.bilibili.com/video/BV1NP4y1E72d
 虽然事情发展到这个地步该结束的差不多都解释了。<br>
 但是依然有人不信： <br>
 
-https://www.douban.com/group/topic/257144843/
+https://www.douban.com/group/topic/257144843/ <br>
 
 甚至有人拿出了，男女单独出去看电影就是破坏规则这个说法，不管男生性取向是什么这都不是偶像该做的。<br>
 对于以上这批人，我只能说，你们说的对，但是我不用你们定义我的偶像该是什么样的。 <br>

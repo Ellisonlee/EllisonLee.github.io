@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 【许杨玉琢】关于1月2日-1月4日的厕所瓜风波存档【许杨玉琢】
+[github仓库](https://github.com/Ellisonlee/sheepdiary/tree/develop/CaseProfiles/220102-04%20%E8%B1%86%E7%93%A3%E5%8E%95%E6%89%80%E7%93%9C%E4%BA%8B%E4%BB%B6)
 
-You can use the [editor on GitHub](https://github.com/Ellisonlee/EllisonLee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 起因
+2022年1月2日晚上八点左右《这不泰河里吧》小组的厕所楼（已删）发出来一个🍉，意指许杨玉琢在某年某月某日某地和一个男生一起看电影 
+同日晚上马上就有人投稿开始发“锤”开楼 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://www.douban.com/group/topic/257066852/
 
-### Markdown
+锤的出处为微信群聊天记录 
+![糊图](https://github.com/Ellisonlee/sheepdiary/blob/develop/CaseProfiles/220102-04%20%E8%B1%86%E7%93%A3%E5%8E%95%E6%89%80%E7%93%9C%E4%BA%8B%E4%BB%B6/Pics/%E7%B3%8A%E5%9B%BE.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+河内yxh随即搬运 
+https://weibo.com/5512350098/L8WdD28xE
+许杨玉琢本人因为排练，到晚上10点多给出回应，并且“暗示”是男性“闺蜜” 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ellisonlee/EllisonLee.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

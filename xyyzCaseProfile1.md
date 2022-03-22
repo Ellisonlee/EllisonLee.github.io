@@ -9,7 +9,7 @@ https://www.douban.com/group/topic/257066852/<br>
 
 锤的出处为微信群聊天记录<br>
 
-![糊图](https://github.com/Ellisonlee/sheepdiary/blob/develop/CaseProfiles/220102-04%20%E8%B1%86%E7%93%A3%E5%8E%95%E6%89%80%E7%93%9C%E4%BA%8B%E4%BB%B6/Pics/%E7%B3%8A%E5%9B%BE.jpg)
+![糊图](./images/%E7%B3%8A%E5%9B%BE.jpeg)
 
 河内yxh随即搬运 <br>
 https://weibo.com/5512350098/L8WdD28xE<br>

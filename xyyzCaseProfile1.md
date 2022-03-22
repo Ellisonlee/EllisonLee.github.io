@@ -5,7 +5,7 @@
 2022年1月2日晚上八点左右《这不泰河里吧》小组的厕所楼（已删）发出来一个🍉，意指许杨玉琢在某年某月某日某地和一个男生一起看电影 
 同日晚上马上就有人投稿开始发“锤”开楼 <br>
 
-https://www.douban.com/group/topic/257066852/<br>
+[豆瓣](https://www.douban.com/group/topic/257066852/)<br>
 
 锤的出处为微信群聊天记录<br>
 
@@ -22,16 +22,16 @@ https://weibo.com/5512350098/L8WdD28xE<br>
 
 ### 发酵 
 同日晚11点有人投稿，猜测照片中的男性身份<br>
-https://m.weibo.cn/5512350098/4721349883330683<br>
+[微博yxh投稿](https://m.weibo.cn/5512350098/4721349883330683)<br>
 
 但是立刻被反驳说时间线根本对不上 <br>
-https://weibo.com/5512350098/L8XttlBqo<br>
+[反击澄清](https://weibo.com/5512350098/L8XttlBqo)<br>
 
 但是在此期间有人发出聊天记录，说是和男方粉丝确认过。<br>
 
-https://www.douban.com/group/topic/257081590/ <br>
+[疑似聊天记录](https://www.douban.com/group/topic/257081590/)<br>
 
-https://weibo.com/5512350098/L8Xw5jC3P <br>
+[疑似聊天记录](https://weibo.com/5512350098/L8Xw5jC3P)<br>
 
 同时有人发出微信聊天记录，疑似和爆料人确认<br>
 
@@ -58,7 +58,7 @@ https://weibo.com/5512350098/L8Xw5jC3P <br>
 
 3.结束 
 1月3日晚11点左右，在发酵了整整一天后，排练结束的许杨玉琢开了一个澄清电台，解释一切的事情 <br>
-https://www.bilibili.com/video/BV1NP4y1E72d
+[澄清电台](https://www.bilibili.com/video/BV1NP4y1E72d)<br>
 
 ![澄清电台](https://github.com/Ellisonlee/sheepdiary/blob/develop/CaseProfiles/220102-04%20%E8%B1%86%E7%93%A3%E5%8E%95%E6%89%80%E7%93%9C%E4%BA%8B%E4%BB%B6/Pics/%E6%BE%84%E6%B8%85%E6%96%87%E5%AD%97%E7%89%88.jpeg)<br>
 
